@@ -1,0 +1,21 @@
+A estrutura do documento HTML
+HTML
+HEAD
+TITLETítulo da páginaTITLE
+HEAD
+BODY
+Conteúdo da página
+BODY
+HTML
+
+
+Declaração do tipo de documento
+A página HTML deve incluir a declaração do tipo de documento (DTD) 
+referência ao padrão HTML que se usa para especificar o padrão de código empregado pela página.
+Esta declaração faz-se agregando uma linha como esta:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>...</HEAD>
+<BODY>Conteúdo da página</BODY>
+</HTML>
